@@ -6,16 +6,15 @@
 
 <img src="./assets/section-player.svg" width="100%" alt="Sobre mim" />
 
-Sou estudante de **Ciência da Computação** na **UNIFEG** e desenvolvedor **full stack**, com foco no ecossistema **TypeScript**. Gosto de levar um projeto do início ao fim: modelar o banco, construir a API e entregar uma interface que as pessoas realmente consigam usar.
+Sou estudante de **Ciência da Computação** na **UNIFEG** e desenvolvedor **full stack** na Sellentt, com foco no ecossistema **TypeScript, Angular, Node.JS**. Gosto de levar um projeto do início ao fim: modelar o banco, construir a API e entregar uma interface que as pessoas realmente consigam usar.
 
 | | |
 |---|---|
-| 💼 **Função** | Desenvolvedor Full Stack |
-| 🎓 **Formação** | Ciência da Computação — UNIFEG |
-| 🧩 **Stack principal** | TypeScript, com React / Next.js ou Angular no front e Node.js + Express no back |
-| 🗄️ **Banco de dados** | PostgreSQL (Supabase), MySQL e Firebase |
-| 📚 **Estudando agora** | Back-end com Node.js e Express (curso da IBM) e padrões de projeto (Singleton, Adapter, Facade) |
-| 🎯 **Objetivo** | Em busca de oportunidades para crescer como desenvolvedor |
+| **Função** | Desenvolvedor Full Stack |
+| **Formação** | Ciência da Computação — UNIFEG |
+| **Stack principal** | TypeScript, com React / Next.js ou Angular no front e Node.js + Express no back |
+| **Banco de dados** | PostgreSQL (Supabase), MySQL e Firebase |
+| **Estudando agora** | Back-end com Node.js e Express (curso da IBM) e padrões de projeto (Singleton, Adapter, Facade) |
 
 <img src="./assets/section-inventory.svg" width="100%" alt="Tecnologias" />
 
